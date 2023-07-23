@@ -1,5 +1,5 @@
 # Banking-coco
-Banki wzorowane na tych z cocorp
+Banki wzorowane na tych z cocorp pod targeta 
 
 # Wymagania
 · ESX Framework
